@@ -1,0 +1,11 @@
+http://cdnjs.loli.net/ajax/libs/mdui/0.4.1/css/mdui.css
+http://cdnjs.loli.net/ajax/libs/mdui/0.4.1/js/mdui.min.js
+http://cdn.bootcss.com/jquery/1.12.3/jquery.min.js
+http://cdn.staticfile.org/layer/2.3/layer.js
+http://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css
+http://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css
+http://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js
+http://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js
+http://cdn.staticfile.org/layer/2.3/skin/layer.css
+https://cdnjs.loli.net/ajax/libs/mdui/0.4.1/icons/material-icons/MaterialIcons-Regular.woff2
+https://cdnjs.loli.net/ajax/libs/mdui/0.4.1/fonts/roboto/Roboto-Regular.woff2
